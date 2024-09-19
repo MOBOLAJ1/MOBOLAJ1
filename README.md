@@ -1,9 +1,9 @@
 Hi 👋, I'm Mobolaji Adeogun
-A curious and insight-driven Data Analyst, weaving stories through data with passion and creativity.
+A curious and insight-driven Data Analyst, weaving stories through data with passion and creativity.                      ![image](https://github.com/user-attachments/assets/77e6618c-8a24-4000-bb75-4937aaa31493)
+
 
 🌱I’m currently honing my skills in advanced Python and exploring Machine Learning, AI, Data Modeling.
-                                                                                                                               ![image](https://github.com/user-attachments/assets/77e6618c-8a24-4000-bb75-4937aaa31493)
-
+                                                                                                                              
 👯 I’m looking to collaborate on Data-related projects
 
 💬 Ask me about Python, Excel, SQL or PowerBi.
