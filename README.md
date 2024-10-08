@@ -12,7 +12,7 @@ A curious and insight-driven Data Analyst, weaving stories through data with pas
 ⚡ Fun fact: I'm passionate about uncovering insights in data!
 
 Connect with me:
-@MOBOLAJ1 [https://www.linkedin.com/in/samuel-adegbite-8869ab1b1](https://www.linkedin.com/in/mobolaji-adeogun-1292b330a/)
+@MOBOLAJ1 www.linkedin.com/in/mobolaji-adeogun-1292b330a
 
 Languages and Tools:
 C++ javascript mssql mysql pandas postgresql python excel sqlserver
