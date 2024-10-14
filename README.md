@@ -24,8 +24,48 @@
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/mobolaji-adeogun-1292b330a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/mobolaji-adeogun-1292b330a" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>  
+<p align="left">  
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">   
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>   
+    </a>  
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">   
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>   
+    </a>  
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">   
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>   
+    </a>  
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">   
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>   
+    </a>  
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">   
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>   
+    </a>  
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">   
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>   
+    </a>  
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">   
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>   
+    </a>  
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">   
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>   
+    </a>  
+    <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer">   
+        <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" width="40" height="40"/>   
+    </a>  
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">   
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Power_BI_Logo.svg/512px-Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/>   
+    </a>  
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">   
+        <img src="https://www.tableau.com/sites/default/files/pages/images/tableau_logo_rgb.png" alt="Tableau" width="40" height="40"/>   
+    </a>  
+    <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">   
+        <img src="https://www.apachefriends.org/xampp/images/logos/xampp-logo.png" alt="XAMPP" width="40" height="40"/>   
+    </a>  
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">   
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Microsoft_Office_Excel_%282019-2021%29.svg/1280px-Microsoft_Office_Excel_%282019-2021%29.svg.png" alt="Excel" width="40" height="40"/>   
+    </a>  
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobolaji1&show_icons=true&locale=en&layout=compact" alt="mobolaji1" /></p>
 
