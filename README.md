@@ -1,5 +1,5 @@
 Hi 👋, I'm Mobolaji Adeogun
-A curious and insight-driven Data Analyst, weaving stories through data with passion and creativity.                                 ![image](https://github.com/user-attachments/assets/77e6618c-8a24-4000-bb75-4937aaa31493)
+A curious and insight-driven Data Analyst, weaving stories through data with passion and creativity.  
 
 🌱I’m currently honing my skills in advanced Python and exploring Machine Learning, AI, Data Modeling.
                                                                                                                               
@@ -12,12 +12,13 @@ A curious and insight-driven Data Analyst, weaving stories through data with pas
 ⚡ Fun fact: I'm passionate about uncovering insights in data!
 
 Connect with me:
-@MOBOLAJ1 www.linkedin.com/in/mobolaji-adeogun-1292b330a
+@MOBOLAJ www.linkedin.com/in/mobolaji-adeogun-1292b330a
 
 Languages and Tools:
-C++ javascript mssql mysql pandas postgresql python excel sqlserver
+ sql mssql mysql pandas postgresql python excel sqlserver
 
 <!---
 MOBOLAJ1/MOBOLAJ1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://github.com/MOBOLAJ1/github...
