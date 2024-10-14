@@ -21,4 +21,7 @@ Languages and Tools:
 MOBOLAJ1/MOBOLAJ1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://github.com/MOBOLAJ1/github...
+![Mobolaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOBOLAJ1&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOBOLAJ1&layout=compact&theme=radical)
+
