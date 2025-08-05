@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mobolaji Adeogun</h1>
+<h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A curious and insight-driven Data Analyst, weaving stories through data with passion and creativity.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobolaji1" alt="mobolaji1" /></a> </p>
